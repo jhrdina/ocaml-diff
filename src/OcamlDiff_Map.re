@@ -26,6 +26,7 @@ module Make: (Ord: Map.OrderedType) => S with type key = Ord.t =
       | Unequal('v, 'v);
 
     // Keep in sync with Map.Make.t
+
     type t_i('v) =
       | Empty
       | Node(t_i('v), key, 'v, t_i('v), int);

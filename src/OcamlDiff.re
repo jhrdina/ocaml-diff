@@ -1,2 +1,2 @@
-module Map = MapRe;
-module Set = SetRe;
+module Map = OcamlDiff_Map;
+module Set = OcamlDiff_Set;

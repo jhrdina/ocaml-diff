@@ -1,6 +1,6 @@
 {
   "name": "ocaml-diff",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Symmetric Diffs for OCaml stdlib and ReasonML",
   "scripts": {
     "build": "bsb -make-world",

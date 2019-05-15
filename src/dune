@@ -1,5 +1,5 @@
 (library
- (name ocaml_diff)
- (public_name ocaml-diff)
+ (name stdlib_diff)
+ (public_name stdlib-diff)
  (wrapped false)
 )
